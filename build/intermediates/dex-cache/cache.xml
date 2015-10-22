@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\0701AND\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\0701AND\Desktop\prgData\LongDistanceGesture\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-a004af01db562dfd4f4f269e5f280c6b3ac694b3.jar" />
+    </item>
+
+</items>
